@@ -18,4 +18,4 @@ The following are the instructions to successfully run the project:
 Hopefully, this acts as a base to creative and new research in the field of recommender systems.
 
 Please feel free to contact me with any queries or suggestions.
-Email: khebbar@clemson.edu 
+Email: tbaig@clemson.edu 
